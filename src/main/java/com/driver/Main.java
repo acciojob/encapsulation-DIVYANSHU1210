@@ -12,7 +12,7 @@ public class Main {
 //            System.out.print("you might seen some error, please not it down in commnets");
 //        }
 
-        obj.setname("tom");
-        System.out.print(obj.getname());
+        obj.setName("tom");
+        System.out.print(obj.getName());
     }
 }
